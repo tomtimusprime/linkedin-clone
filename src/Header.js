@@ -5,14 +5,14 @@ import SearchIcon from '@mui/icons-material/Search';
 const Header = () => {
     return (
         <div className="header">
-            <h1>This is the header.</h1>
 
             <div className="header-left">
-                <img src="" alt="" />
+                <img src={require('./linkedin.png')}title="linkedin icon" alt="" />
 
-                {/*Searc Icon */}
+                {/*Searcj Icon */}
                 <div className="header-search">
-
+                    <SearchIcon />
+                    <input type="text"></input>
                 </div>
 
             </div>
