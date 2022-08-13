@@ -7,6 +7,15 @@
     color: gray;
 }
 
+.headerOption-title {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.headerOption-icon {
+    object-fit: contain;
+}
+
 .headerOption:hover {
     color: black;
 }
