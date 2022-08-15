@@ -8,13 +8,13 @@
 }
 
 .headerOption-title {
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
 }
 
-.headerOption-icon {
+/* .headerOption-icon {
     object-fit: contain;
-}
+} */
 
 .headerOption:hover {
     color: black;
