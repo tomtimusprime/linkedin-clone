@@ -22,3 +22,8 @@
     background-color: white;
     padding-bottom: 10px;
 }
+
+.sidebar-top img {
+    margin-bottom: -20px;
+    width: 100%;
+}

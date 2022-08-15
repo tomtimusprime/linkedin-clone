@@ -6,7 +6,7 @@ const Sidebar = () => {
     return (
         <div className="sidebar">
             <div className="sidebar-top">
-                <img src="" alt="" />
+                <img src={require('./wallpaper.jpg')} alt="" />
                 <Avatar className="sidebar-avatar"/>
                 <h2>Tom Black</h2>
                 <h2>tom.black06007@gmail.com</h2>
