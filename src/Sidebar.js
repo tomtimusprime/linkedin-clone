@@ -31,6 +31,7 @@ const Sidebar = () => {
 
             <div className="sidebar-bottom">
                 <p>Recent</p>
+                {recentItem("Tech")}
                 {recentItem("react.js")}
                 {recentItem("Programming")}
                 {recentItem("SoftwareEngineering")}
